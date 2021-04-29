@@ -17,7 +17,7 @@
         <>
             <Nav>
                 <NavbarContainer>
-                    <NavLogo to="/"> NahNova </NavLogo>
+                    <NavLogo to='/'> NahNova </NavLogo>
                     <MobileIcon onClick={toggle}>
                         <FaBars />
                     </MobileIcon>
